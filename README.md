@@ -32,6 +32,6 @@ export TAVILY_API_KEY = "TAVILY_API_KEY" # Replace with key
 To run a file
 
 ```
-cd llm-langchain/practice/<file name>
+cd <file name>
 ```
 
